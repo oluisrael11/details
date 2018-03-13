@@ -1,2 +1,5 @@
 # details
-**Name**: Ayoade Oluwafunmisi, **Number**: 08179296118, **Operating System**: Windows
+**Name**: Badewa Kayode, **Number**: 08176592063, **Operating System**: Ubuntu
+**Name**: Olawuni Olagoke, **Number**: 07067980742, **Operating System**: Windows(10);
+**Name**: Eyisi Kene, **Number**: 08109057040, **Operating System**: Mac OS;
+**Name**: Ayoade Oluwafunmisi, **Number**: 0817926118, **Operating System**: Windows(10);
