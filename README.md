@@ -5,3 +5,4 @@
 **Name**: Ademola Micheal Olusegun, **Number**: 08022482797, **Operating System**: Windows(7);
 **Name**: Ayoade Oluwafunmisi, **Number**: 0817926118, **Operating System**: Windows(10);
 **Name**: Kolawole Ezekiel, **Number**: 08135306027, **Operating system**: windows (10);
+**Name**: Ale Damlola, **Number**: 08039159459, **Operating system**: Ubuntu;
